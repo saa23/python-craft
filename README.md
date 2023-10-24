@@ -1,2 +1,2 @@
 # python-craft
-Python essential
+Covering the basic essential of python programming
